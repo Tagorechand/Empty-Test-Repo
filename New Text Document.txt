@@ -1,3 +1,4 @@
 Hello world!
 This is a second line in the file.
 This is the third line in the file.
+Changed by clone 1
